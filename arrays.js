@@ -60,7 +60,7 @@ function destructivelyRemoveElementFromBeginningOfArray(array){
   return array;
 }
 
-function removeElementFromTheBeginningOfArray(array){
+function removeElementFromBeginningOfArray(array){
   return array.slice(1);
 }
 
